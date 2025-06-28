@@ -1,1 +1,1 @@
-new file created
+Select * from izmo_web were fk_dealer_id = "1036";
