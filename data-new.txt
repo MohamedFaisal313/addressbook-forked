@@ -1,1 +1,1 @@
-New data file is required for data analasys
+jenkins is configured in different slaves
