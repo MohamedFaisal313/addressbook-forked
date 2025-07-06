@@ -1,1 +1,2 @@
 jenkins is configured in different slaves.
+The user name for jenkins is user1.
